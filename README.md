@@ -13,7 +13,7 @@ A practical, day-by-day journey through Data Structures and Algorithms using Pyt
 | Day | Topic | Problem | Status |
 |---|---|---|---|
 | 01 | Arrays | Find the largest element | Completed |
-| 02 | Strings | Reverse a string | Planned |
+| 02 | Strings | Reverse a string | Completed |
 | 03 | Hashing | Count element frequencies | Planned |
 | 04 | Two pointers | Check for a palindrome | Planned |
 | 05 | Binary search | Search a sorted array | Planned |
